@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #faf4ff;
+}
+
+p {
+    font-size: 14px;
+    color: #52437b;
+}
+
+h5 {
+    font-size: 18px;
+    color: #221f3b;
+}
+
+.btn {
+    font-size: 14px;
+    color:  #221f3b;
+}
+
+.btn:hover {
+    background-color: #c3aed6;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    color: white;
+}
+
+.card:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 5px 15px 0 rgba(0, 0, 0, 0.05);
+}
